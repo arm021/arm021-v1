@@ -1,37 +1,30 @@
-### Hi there 👋
+# Hello there!
+### I'm Andrew Rey Micua, you can call me by my first name. I am currently employed as a Junior Shopify Store Developer. I, also, do buy/sell/trade of toys as my side hustle.
 
-<!--
-**arm021/arm021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## SKILLS
+Some of the programming languages I know are:
+  - Liquid programming language
+  - HTML
+  - CSS
 
-Here are some ideas to get you started:
+Here are some of my other skills I know but not expert with:
+  - Photoshop
+  - Illustrator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now I am currently working on learning these:
+  - GitHub
+  - Javascript
+  - Outsystems
 
-### 🔭 I’m currently working on ...
-  - improving my web development and programming skills
-  
-### 🌱 I’m currently learning ...
- - GitHub version control using VS Code
- 
-### 👯 I’m looking to collaborate on ...
- - a new Shopify project
- 
-### 🤔 I’m looking for help with ...
- - my Javascript programming skills
+## EDUCATION
+### Pasig Catholic College
+- 2013-2017
+- Bachelor of Science in Infomation Technology
+- Malinao, Pasig City 1600
 
-### 📫 How to reach me: ...
- - my email address is micuaandrew@gmail.com
+## HOBBIES & INTERESTS
+- Toys (collecting, photography)
+- Music
+- Movies
 
-### 😄 Pronouns: ...
- - he, him, his
-
-### ⚡ Fun fact: ...
- - I love collecting DC figures
+### Thank you for visiting my profile! Have a wonderful day my friend!
