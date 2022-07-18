@@ -27,4 +27,7 @@ Right now I am currently working on learning these:
 - Music
 - Movies
 
+## CONTACT INFORMATION
+- micuaandrew@gmail.com
+
 ### Thank you for visiting my profile! Have a wonderful day my friend!
