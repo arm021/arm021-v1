@@ -24,11 +24,8 @@ Right now I am currently working on learning these:
 
 ## HOBBIES & INTERESTS
 - Toys (collecting, photography)
-  - I really enjoy looking at my toy collection, by the way I collect DC 1:12 scale action figures. I keep the ones I really like, if it doesn't suit my taste, I sell them to buy something new.
 - Music
-  - I appreciate all genre but if I feel like I need to focus I listen to KPOP which is something that I can't understand so that I won't be singing along with it and distract me while keeping me awake since they are upbeat.
 - Movies
-  - I like the Nolan films, very deep and full of mysteries. I, also, enjoy watching superhero films especially DC Comics related ones.
 
 ## CONTACT INFORMATION
 - micuaandrew@gmail.com
